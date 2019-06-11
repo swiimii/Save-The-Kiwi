@@ -1,0 +1,8 @@
+Bear:
+https://www.tripadvisor.com/LocationPhotoDirectLink-g143041-d1488298-i46886190-Silver_Salmon_Creek_Lodge-Lake_Clark_National_Park_and_Preserve_Alaska.html
+
+Kiwi:
+Created by Samuel Scherer
+
+Game:
+Created by Samuel Scherer, with use of standard Unity assets
